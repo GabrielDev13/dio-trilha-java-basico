@@ -20,7 +20,7 @@ public class estudo_java {
         smartTV.aumentarVolume();
         smartTV.diminuirVolume();
         smartTV.diminuirVolume();
-        System.out.println("Volume atual: " + smartTV.volume);
+        System.out.println("Volume atual:  " + smartTV.volume);
     }
 
 
